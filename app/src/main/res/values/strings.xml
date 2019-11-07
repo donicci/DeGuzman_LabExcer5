@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">DeGuzman_LabExcer5</string>
+
+    <string-array name="android">
+        <item>   Cupcake</item>
+        <item>   Donut</item>
+        <item>   Eclair</item>
+        <item>   Froyo</item>
+        <item>   Gingerbread</item>
+        <item>   Honeycomb</item>
+        <item>   Ice Cream Sandwich</item>
+        <item>   Jelly Bean</item>
+        <item>   KitKat</item>
+        <item>   Lollipop</item>
+        <item>   Marshmallow</item>
+        <item>   Nougat</item>
+        <item>   Oreo</item>
+        <item>   Pie</item>
+        <item>   Android 10</item>
+
+    </string-array>
+
+
+    <string-array name="version">
+        <item>Version 1.5</item>
+        <item>Version 1.6</item>
+        <item>Version 2.0 - 2.1 </item>
+        <item>Version 2.2 - 2.2.3</item>
+        <item>Version 2.3 – 2.3.7 </item>
+        <item>Version 3.0 – 3.2.6 </item>
+        <item>Version 4.0 – 4.0.4 </item>
+        <item>Version 4.1 – 4.3.1 </item>
+        <item>Version 4.4 – 4.4.4 </item>
+        <item>Version 5.0 – 5.1.1 </item>
+        <item>Version 6.0 – 6.0.1 </item>
+        <item>Version 7.0 – 7.1.2 </item>
+        <item>Version 8.0 – 8.1 </item>
+        <item>Version 9.0 </item>
+        <item>Version 10.0</item>
+
+</string-array>
+    <string-array name="level">
+        <item>API Level 3</item>
+        <item>API Level 4</item>
+        <item>API Level 5-7 </item>
+        <item>API Level 8</item>
+        <item>API Level 9-10 </item>
+        <item>API Level 11 – 13</item>
+        <item>API Level 14 – 15</item>
+        <item>API Level 16 – 18</item>
+        <item>API Level 19 – 20</item>
+        <item>API Level 21 – 22</item>
+        <item>API Level 23</item>
+        <item>API Level 24 - 25</item>
+        <item>API Level 26 - 27</item>
+        <item>API Level 28</item>
+        <item>API Level 29</item>
+    </string-array>
+
+
+    <string-array name="rdate">
+        <item>Released: April 27, 2009</item>
+        <item>Released:September 15, 2009</item>
+        <item>Released:October 26, 2009</item>
+        <item>Released:May 20, 2010</item>
+        <item>Released:December 6, 2010</item>
+        <item>Released:February 22, 2011</item>
+        <item>Released:October 18, 2011</item>
+        <item>Released:July 9, 2012</item>
+        <item>Released:October 31, 2013</item>
+        <item>Released:November 12, 2014</item>
+        <item>Released:October 5, 2015</item>
+        <item>Released:August 22, 2016</item>
+        <item>Released:August 21, 2017</item>
+        <item>Released:August 6, 2018</item>
+        <item>Released:September 3, 2019</item>
+    </string-array>
+
+    <string-array name="dbmsg">
+        <item>is the third version of Android developed by Google, a major platform release deployable to Android-powered handsets starting in April 2009, that is no longer supported.</item>
+        <item>is the fourth version of the open source Android mobile operating system developed by Google that is no longer supported.</item>
+        <item>is a codename of the Android mobile operating system developed by Google and the fifth operating system for Android, and for the no-longer supported versions 2.0 to 2.1.</item>
+        <item>is the sixth version of Android and is a codename of the Android mobile operating system developed by Google, spanning versions between 2.2 and 2.2.3.</item>
+        <item>is the seventh version of Android, a codename of the Android mobile operating system developed by Google and released in December 2010, for versions that are no longer supported.</item>
+        <item>is the codename for the eighth version of Android, designed for devices with larger screen sizes, particularly tablets. It is no longer supported (newer versions are).</item>
+        <item>is the ninth version of the Android mobile operating system developed by Google.</item>
+        <item>is the tenth version of Android and the codename given to three major point releases of the Android mobile operating system developed by Google, spanning versions between 4.1 and 4.3.1.</item>
+        <item>is a codename for the Android mobile operating system and the eleventh version of Android. Unveiled on September 3, 2013, KitKat focused primarily on optimizing the operating system for improved performance on entry-level devices with limited resources. </item>
+        <item>is the fifth major version of the Android mobile operating system developed by Google, spanning versions between 5.0 and 5.1.1.</item>
+        <item>is the sixth major version of the Android operating system and the 13th version of Android. </item>
+        <item>is the seventh major version and 14th original version of the Android operating system.</item>
+        <item>is the eighth major release and the 15th version of the Android mobile operating system.</item>
+        <item>is the ninth major release and the 16th version of the Android mobile operating system. It was first released as a developer preview on March 7, 2018, and released publicly on August 6, 2018. </item>
+        <item>is the tenth major release and the 17th version of the Android mobile operating system. It was released on September 3, 2019. </item>
+    </string-array>
+
+</resources>
